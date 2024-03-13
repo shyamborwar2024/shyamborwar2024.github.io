@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "India"
-title                    : "Personal Academia"
+title                    : "Dr. Shyam Personal Academia"
 title_separator          : "-"
 name                     : &name "Dr. Shyam Borwar"
 description              : &description "personal description"
