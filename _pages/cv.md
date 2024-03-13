@@ -11,26 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+2020 Ph.D.
+The Institute of science (HBSU) & SGBAU
+
+2013 PGDTC
+University of Hyderabad
+
+2008 M.Phil
+Alagappa University
+
+2004 M.Sc.
+Government Vidarbha Institute of Science and Humanities, Amravati
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+2022 - Present Assistant Professor - Senior Scale
+PHYSICS
+Smt. Indira Gandhi College of Engineering CIDCO Sector 16 Koparkhairane Navi Mumbai 400 701,Thane
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+2018 - 2022 Fellow
+Physics
+The Institute of Science Fort Mumbai 400 032,Mumbai
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+2012 - 2013 Honorary Professor
+The Institute of Science Fort Mumbai 400 032,Mumbai
+
+2008 - 2009 Visiting Lecturer
+Electronics
+Shri Brijlal Biyani Science College , Near Dashara Ground, Durga Vihar, Amravati.,Amravati
+
+2008 - 2008 Lecturer
+Physics
+Government of Maharashtras, Ismail Yusuf College, Jogeshwari (E), Mumbai,Mumbai
+
+2004 - 2007 Lecturer
+physics and electronics
+Government Vidarbha Institute of Science and Humanities, Amravati,Amravati
   
 Skills
 ======
