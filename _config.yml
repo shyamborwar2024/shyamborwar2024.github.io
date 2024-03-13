@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to All!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "Your Name / Site Title"
+locale                   : "India"
+title                    : "Personal Academia"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dr. Shyam Borwar"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shyamborwar2024.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://shyamborwar2024.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,19 +22,21 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Shyam Borwar"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Dr Shyam Borwar. Dr. Homi Bhabha State University, Department Of Physics The Institute Of Science, Mumbai, Maharashtra, India - 400032. Experience. 2022 - Present. Assistant Professor - Senior Scale. PHYSICS."
+  location         : "India"
+  employer         : "Mumbai University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s_sborwar2019@yahoo.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-2466-9812"
+  Web of Science   : "https://www.webofscience.com/wos/author/record/2343030"
+  Vidwan           : "https://vidwan.inflibnet.ac.in/profile/229622#experience_information_panel"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
@@ -56,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://in.linkedin.com/in/dr-shyamkumar-borwar-01b30a36?original_referer=https%3A%2F%2Fwww.bing.com%2F"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -107,7 +109,6 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
