@@ -37,8 +37,8 @@ author:
   orcid            : "https://orcid.org/0000-0002-2466-9812"
   Web of Science   : "https://www.webofscience.com/wos/author/record/2343030"
   Vidwan           : "https://vidwan.inflibnet.ac.in/profile/229622#experience_information_panel"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.webofscience.com/wos/author/record/2343030"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
