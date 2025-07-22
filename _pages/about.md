@@ -1,6 +1,10 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "I believe the best teachers remain students in their whole lives. I keep learning what I teach so, that I can be a better teacher. Meanwhile, I am also learning a lot from my students. 
+
+“I'm self-confident. When I take on a project, I believe in it 100% and I really put my soul into it. That's how I am.” 
+
+“I have traveled far, but the hardest part of a journey is always the next step.” "
 author_profile: true
 redirect_from: 
   - /about/
