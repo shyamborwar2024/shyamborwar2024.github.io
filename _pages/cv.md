@@ -11,42 +11,39 @@ redirect_from:
 
 Education
 ======
-2020 Ph.D.
-The Institute of science (HBSU) & SGBAU
+2020 Ph.D. (Physics- Gas Sensor and Nanotechnology)
+The Institute of science, Dr. Homi Bhabha State University, Mumbai & Sant Gadge Baba Amravati University, Amravati.
 
-2013 PGDTC
-University of Hyderabad
+2013 P.G.D.T.C. (Telecommunication) 
+Hyderabad University, Hyderabad
 
-2008 M.Phil
-Alagappa University
+2008 M.Phil (Physics- Applied Spectrocopy)
+Alagappa University, Karaikudi
 
-2004 M.Sc.
+2004 M.Sc.(Physics- Solid State Physics, Digital Electronics)
 Government Vidarbha Institute of Science and Humanities, Amravati
 
 Work experience
 ======
-2022 - Present Assistant Professor - Senior Scale
-PHYSICS
-Smt. Indira Gandhi College of Engineering CIDCO Sector 16 Koparkhairane Navi Mumbai 400 701,Thane
+2022 - 2025 Assistant Professor - Senior Scale
+Physics, Smt. Indira Gandhi College of Engineering, Navi Mumbai 400 701
 
-2018 - 2022 Fellow
-Physics
-The Institute of Science Fort Mumbai 400 032,Mumbai
+2011 - 2022 Assistant Professor in Physics - Senior Scale 
+Harne College of Engineering, Thane 421 503
 
-2012 - 2013 Honorary Professor
-The Institute of Science Fort Mumbai 400 032,Mumbai
+2012 - 2013 Honorary Professor in Physics, 
+The Institute of Science, Fort Mumbai 400 032
 
-2008 - 2009 Visiting Lecturer
-Electronics
-Shri Brijlal Biyani Science College , Near Dashara Ground, Durga Vihar, Amravati.,Amravati
+2009 - 2011 Lecturer in Physics, P. N. Polytechnic College, Raigad 
 
-2008 - 2008 Lecturer
-Physics
-Government of Maharashtras, Ismail Yusuf College, Jogeshwari (E), Mumbai,Mumbai
+2008 - 2009 Visiting Lecturer in Electronics, 
+Shri Brijlal Biyani Science College, Amravati.
 
-2004 - 2007 Lecturer
-physics and electronics
-Government Vidarbha Institute of Science and Humanities, Amravati,Amravati
+2008 - 2008 Lecturer in Physics,
+Government Ismail Yusuf College of Arts, Science & Commerce, Mumbai
+
+2004 - 2007 Lecturer in Physics and Electronics,
+Government Vidarbha Institute of Science and Humanities, Amravati.
   
 Skills
 ======
