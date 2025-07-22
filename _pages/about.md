@@ -1,10 +1,12 @@
 ---
 permalink: /
-title: "I believe the best teachers remain students in their whole lives. I keep learning what I teach so, that I can be a better teacher. Meanwhile, I am also learning a lot from my students. 
+title: " Accomplished physics faculty with 21 years of experience in academic
+administration (graduate and post-graduate physics teaching in science, engineering, and technology
+organizations) and time management in higher education. A solid background in material sensors and its
+application. Technical Skills and Specialties: Expert hand in computer application operations for educational
+and research levels and in instrumentation XRD, SEM, EDS, FTIR and Sensing Terminals. Sound Knowledge
+of general physics and electronics and the electronic devices, laboratory equipment’s."
 
-“I'm self-confident. When I take on a project, I believe in it 100% and I really put my soul into it. That's how I am.” 
-
-“I have traveled far, but the hardest part of a journey is always the next step.” "
 author_profile: true
 redirect_from: 
   - /about/
