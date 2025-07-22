@@ -1,7 +1,7 @@
 ---
 title: "Intercalative nano-composites poly (ethylene oxide)/cu for LPG sensing application"
 collection: publications
-permalink: /publication/2010
+permalink: /publication/2010--10-01-paper-title-number-2
 # excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010
 venue: 'Digest Journal of Nanomaterials and Biostructures'
