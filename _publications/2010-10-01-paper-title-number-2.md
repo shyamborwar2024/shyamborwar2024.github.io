@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Intercalative nano-composites poly (ethylene oxide)/cu for LPG sensing application"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2010-Intercalative nano-composites poly (ethylene oxide)/cu for LPG sensing application
+# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010
+venue: 'Digest Journal of Nanomaterials and Biostructures'
+paperurl: 'http://shyamborwar2024.github.io/files/paper2.pdf'
+citation: 'PS More, SS Patil, SS Borwar, You. (2010). &quot;Intercalative nano-composites poly (ethylene oxide)/cu for LPG sensing application.&quot; <i>Digest Journal of Nanomaterials and Biostructures</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+# The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
